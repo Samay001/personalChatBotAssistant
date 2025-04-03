@@ -63,8 +63,12 @@
         "institution": "Chandigarh University",
         "degree": "B.E in Computer Science",
         "field": "Computer Science",
-        "year": "2021-2025"
+        "year": "2021-2025",
+        "achievements": [
+          ""
+        ]
       }
+      
     ],
     "Achievements": [
       {
